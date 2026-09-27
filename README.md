@@ -73,7 +73,7 @@ Ensure you have Python installed. Then, install the necessary dependencies:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/IA-trash-sorter.git
+   git clone https://github.com/jerichd4c/ai-trash-sorter.git
    ```
 2. Install the necessary packages
    ```sh
@@ -126,16 +126,6 @@ python src/full_model.py
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/jerichd4c/IA-trash-sorter.svg?style=for-the-badge
-[contributors-url]: https://github.com/jerichd4c/IA-trash-sorter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jerichd4c/IA-trash-sorter.svg?style=for-the-badge
-[forks-url]: https://github.com/jerichd4c/IA-trash-sorter/network/members
-[stars-shield]: https://img.shields.io/github/stars/jerichd4c/IA-trash-sorter.svg?style=for-the-badge
-[stars-url]: https://github.com/jerichd4c/IA-trash-sorter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jerichd4c/IA-trash-sorter.svg?style=for-the-badge
-[issues-url]: https://github.com/jerichd4c/IA-trash-sorter/issues
-[license-shield]: https://img.shields.io/github/license/jerichd4c/IA-trash-sorter.svg?style=for-the-badge
-[license-url]: https://github.com/jerichd4c/IA-trash-sorter/blob/main/LICENSE
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [TensorFlow-shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
