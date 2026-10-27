@@ -66,7 +66,7 @@ To get a local copy up and running, follow these simple steps.
 Ensure you have Python installed. Then, install the necessary dependencies:
 * pip
   ```sh
-  pip install -r requeriments.txt
+  pip install -r requirements.txt
   ```
 
 ### Installation
@@ -77,7 +77,7 @@ Ensure you have Python installed. Then, install the necessary dependencies:
    ```
 2. Install the necessary packages
    ```sh
-   pip install -r requeriments.txt
+   pip install -r requirements.txt
    ```
 3. Ensure the model `waste_classifier_model.h5` is in the root directory of the project.
 
